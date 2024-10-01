@@ -1,4 +1,5 @@
 # Olá! Eu sou Voigt 👋
+[English version](#hello-im-voigt-)
 
 Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos em que estou trabalhando e colaborando, além de algumas dicas sobre as ferramentas e tecnologias que utilizo.
 
@@ -27,7 +28,6 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 - **[Git API](https://github.com/Voigtuwu/Task-Manager)**  
   Aplicativo utilizando a API do Git para exibir e filtrar os dados e repositórios de um usuário.
 
-  
 ---
 
 ## 🔥 Estatísticas do GitHub
@@ -45,12 +45,10 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 
 Obrigado por visitar meu perfil! 😄
 
-
-
---------------------------------------------------------------------------------------------------------
-
+---
 
 # Hello! I'm Voigt 👋
+[Versão em Português](#olá-eu-sou-voigt-)
 
 Welcome to my GitHub profile! I'm a developer passionate about technology and innovation. Here you'll find projects I'm working on and collaborating with, as well as some insights into the tools and technologies I use.
 
@@ -95,4 +93,3 @@ Welcome to my GitHub profile! I'm a developer passionate about technology and in
 ---
 
 Thank you for visiting my profile! 😄
-
