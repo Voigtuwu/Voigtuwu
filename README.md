@@ -22,10 +22,10 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 - **[Desafio Neoron](https://github.com/Voigtuwu/Desafio-Neoron)**  
   Sistema de gerenciamento de voos, com backend em Spring Boot e frontend em React.
   
-- **[Task Manager](https://github.com/Voigtuwu/Task-Manager)**  
+- **[Task Manager](https://github.com/Voigtuwu/TM-App-TS)**  
   Aplicativo de gerenciamento de tarefas com funcionalidades de lembretes, desenvolvido com React e Firebase.
 
-- **[Git API](https://github.com/Voigtuwu/Task-Manager)**  
+- **[Git API](https://github.com/Voigtuwu/Git-API)**  
   Aplicativo utilizando a API do Git para exibir e filtrar os dados e repositórios de um usuário.
 
 ---
@@ -71,10 +71,10 @@ Welcome to my GitHub profile! I'm a developer passionate about technology and in
 - **[Desafio Neoron](https://github.com/Voigtuwu/Desafio-Neoron)**  
   Flight management system with backend in Spring Boot and frontend in React.
   
-- **[Task Manager](https://github.com/Voigtuwu/Task-Manager)**  
+- **[Task Manager](https://github.com/Voigtuwu/TM-App-TS)**  
   Task management app with reminder functionalities, developed with React and Firebase.
 
-- **[Git API](https://github.com/Voigtuwu/Task-Manager)**  
+- **[Git API](https://github.com/Voigtuwu/Git-API)**  
   Application using the GitHub API to display and filter user data and repositories.
 
 ---
